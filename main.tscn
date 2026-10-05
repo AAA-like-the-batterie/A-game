@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://c0qqje1hn5jpw"]
+
+[node name="Node" type="Node" unique_id=592799554]
+
+[node name="Player" type="CharacterBody2D" parent="." unique_id=2103296789]
